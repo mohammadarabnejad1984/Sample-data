@@ -1,46 +1,46 @@
-country,name,gender,salary,email
-United States,Alice,female,75,000,alice.smith@example.com
-United Kingdom,Bob,male,65,000,bob.jones@example.com
-Canada,Carol,female,80,000,carol.williams@example.com
-Australia,Dave,male,95,000,dave.brown@example.com
-India,Eve,female,55,000,eve.kumar@example.com
-China,Frank,male,90,000,frank.li@example.com
-Japan,George,male,60,000,george.suzuki@example.com
-Germany,Hannah,female,70,000,hannah.schmidt@example.com
-France,Isaac,male,85,000,isaac.martin@example.com
-Brazil,James,male,99,000,james.silva@example.com
-United States,William,male,80,000,william.johnson@example.com
-United Kingdom,Elizabeth,female,70,000,elizabeth.brown@example.com
-Canada,Michael,male,90,000,michael.williams@example.com
-Australia,David,male,100,000,david.miller@example.com
-India,Priya,female,60,000,priya.kumar@example.com
-China,Li,male,95,000,li.wang@example.com
-Japan,Sakura,female,75,000,sakura.suzuki@example.com
-Germany,Peter,male,85,000,peter.schmidt@example.com
-France,Marie,female,65,000,marie.martin@example.com
-Brazil,Carlos,male,90,000,carlos.silva@example.com
-United States,Jessica,female,70,000,jessica.williams@example.com
-United Kingdom,Matthew,male,80,000,matthew.johnson@example.com
-Canada,Sarah,female,90,000,sarah.brown@example.com
-Australia,Robert,male,100,000,robert.miller@example.com
-India,Rahul,male,60,000,rahul.kumar@example.com
-China,Mei,female,95,000,mei.wang@example.com
-Japan,Taro,male,75,000,taro.suzuki@example.com
-Germany,Anna,female,85,000,anna.schmidt@example.com
+country,name,gender,salary,email;
+United States,Alice,female,75,000,alice.smith@example.com;
+United Kingdom,Bob,male,65,000,bob.jones@example.com;
+Canada,Carol,female,80,000,carol.williams@example.com;
+Australia,Dave,male,95,000,dave.brown@example.com;
+India,Eve,female,55,000,eve.kumar@example.com;
+China,Frank,male,90,000,frank.li@example.com;
+Japan,George,male,60,000,george.suzuki@example.com;
+Germany,Hannah,female,70,000,hannah.schmidt@example.com;
+France,Isaac,male,85,000,isaac.martin@example.com;
+Brazil,James,male,99,000,james.silva@example.com;
+United States,William,male,80,000,william.johnson@example.com;
+United Kingdom,Elizabeth,female,70,000,elizabeth.brown@example.com;
+Canada,Michael,male,90,000,michael.williams@example.com;
+Australia,David,male,100,000,david.miller@example.com;
+India,Priya,female,60,000,priya.kumar@example.com;
+China,Li,male,95,000,li.wang@example.com;
+Japan,Sakura,female,75,000,sakura.suzuki@example.com;
+Germany,Peter,male,85,000,peter.schmidt@example.com;
+France,Marie,female,65,000,marie.martin@example.com;
+Brazil,Carlos,male,90,000,carlos.silva@example.com;
+United States,Jessica,female,70,000,jessica.williams@example.com;
+United Kingdom,Matthew,male,80,000,matthew.johnson@example.com;
+Canada,Sarah,female,90,000,sarah.brown@example.com;
+Australia,Robert,male,100,000,robert.miller@example.com;
+India,Rahul,male,60,000,rahul.kumar@example.com;
+China,Mei,female,95,000,mei.wang@example.com;
+Japan,Taro,male,75,000,taro.suzuki@example.com;
+Germany,Anna,female,85,000,anna.schmidt@example.com;
 France,Jean,male,65,000,jean.martin@example.com
-Brazil,Paula,female,90,000,paula.silva@example.com
-United States,Daniel,male,70,000,daniel.williams@example.com
-United Kingdom,Emily,female,80,000,emily.johnson@example.com
-Canada,James,male,90,000,james.brown@example.com
-Australia,John,male,100,000,john.miller@example.com
-India,Sita,female,60,000,sita.kumar@example.com
-China,Zhang,male,95,000,zhang.wang@example.com
-Japan,Hanako,female,75,000,hanako.suzuki@example.com
-Germany,Thomas,male,85,000,thomas.schmidt@example.com
-France,Paul,male,65,000,paul.martin@example.com
-Brazil,Ricardo,male,90,000,ricardo.silva@example.com
-United States,Susan,female,70,000,susan.williams@example.com
-United Kingdom,David,male,80,000,david.johnson@example.com
-Canada,Mary,female,90,000,mary.brown@example.com
-Australia,Michael,male,100,000,michael.miller@example.com
-India,Arjun,male,60,000,arjun.kumar@example.com
+Brazil,Paula,female,90,000,paula.silva@example.com;
+United States,Daniel,male,70,000,daniel.williams@example.com;
+United Kingdom,Emily,female,80,000,emily.johnson@example.com;
+Canada,James,male,90,000,james.brown@example.com;
+Australia,John,male,100,000,john.miller@example.com;
+India,Sita,female,60,000,sita.kumar@example.com;
+China,Zhang,male,95,000,zhang.wang@example.com;
+Japan,Hanako,female,75,000,hanako.suzuki@example.com;
+Germany,Thomas,male,85,000,thomas.schmidt@example.com;
+France,Paul,male,65,000,paul.martin@example.com;
+Brazil,Ricardo,male,90,000,ricardo.silva@example.com;
+United States,Susan,female,70,000,susan.williams@example.com;
+United Kingdom,David,male,80,000,david.johnson@example.com;
+Canada,Mary,female,90,000,mary.brown@example.com;
+Australia,Michael,male,100,000,michael.miller@example.com;
+India,Arjun,male,60,000,arjun.kumar@example.com;
